@@ -1,0 +1,2 @@
+# Bitrise_Verification
+Bitrise検証用リポジトリ
